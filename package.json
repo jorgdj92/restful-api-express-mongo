@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jorgdj92/restful-api-express-mongo/issues"
   },
-  "homepage": "https://github.com/jorgdj92/restful-api-express-mongo#readme"
+  "homepage": "https://github.com/jorgdj92/restful-api-express-mongo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
