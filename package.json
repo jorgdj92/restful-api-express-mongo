@@ -1,0 +1,24 @@
+{
+  "name": "restful-api-express-mongo",
+  "version": "1.0.0",
+  "description": "Api Mongo Restful",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgdj92/restful-api-express-mongo.git"
+  },
+  "keywords": [
+    "Api",
+    "Mongo",
+    "Db"
+  ],
+  "author": "Jorge Ivan Reyes Valencia <jorgeivanreyesvalencia92@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgdj92/restful-api-express-mongo/issues"
+  },
+  "homepage": "https://github.com/jorgdj92/restful-api-express-mongo#readme"
+}
